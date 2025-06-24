@@ -12,6 +12,8 @@ Import Data for this training including:
 - Rubber reference data
 - Water reference data
 
+These shapefiles must be added using the Google Earth Engine 'Assets' tab. For more inofrmation visit: https://developers.google.com/earth-engine/cloud/assets 
+
 ![](https://static.observableusercontent.com/files/7c866806e7be981707bfd0c2503b60a2ff322b196637b2d15c77b435559b203a257d127f7a514763a52537383f4b507c9ffaf7ef9049fa098aa1ed7de8f2b40a)
 
 # Step 2
